@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Glamour Touch Nails & Beauty
 Welcome to the Glamour Touch Nails & Beauty Appointment Booking Website! This project aims to provide a seamless online platform for clients to schedule appointments for nail and beauty services offered by Glamour Touch Nails & Beauty salon.
 ## Authors
@@ -91,3 +92,7 @@ npm run watch
 https://youtu.be/y6au0tl1f7k
 ## Contributing
 Do not hesitate to contribute to the project by adapting or adding features Bug reports or pull requests are welcome.
+=======
+# Client_Site_01
+old site 
+>>>>>>> 4ba6eaebbb464aa1f37ad98fc184a8ebad15fe1a
