@@ -21,10 +21,9 @@
       </div>
       <div class="footer-section">
           <h3>Developers</h3>
-          <ul>
+          <ul><li><a href="#">Meghan</a></li>
               <li><a href="#">Meghana</a></li>
               <li><a href="#">Aoife</a></li>
-              <li><a href="#">Meghan</a></li>
               <li><a href="https://github.com/RathnamMeghana/Beauty_Cosmetics_Laravel">Our Github</a></li>
           </ul>
       </div>

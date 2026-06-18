@@ -11,6 +11,7 @@
     <link href="{{ mix('css/aboutus.css') }}" rel="stylesheet">
     <link href="{{ mix('css/index.css') }}" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+    <link rel="icon" type="image/png" href="{{ asset('favicon.png') }}">
 </head>
 <body class="{{ in_array(Route::currentRouteName(), ['index','aboutUs','staff', 'gallery', 'appointments.index', 'services.index']) ? 'transparent-header' : '' }}">
     <div id="app">
